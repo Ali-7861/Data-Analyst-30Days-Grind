@@ -17,3 +17,14 @@ Find candidates who have ALL 3 skills: Python, Tableau, PostgreSQL
 
 ### Result
 Successfully filtered candidates who are proficient in all 3 tech stacks.
+
+# 01 - SQL -30 Days GRIND
+
+## Day 2 (17 Sept) - Facebook Pages NO Likes
+
+### Problem : Find the IDs of all Facebook pages that have generated zero users Likes.
+
+### Verified Files: 02_Facebook_pages_with_No_Likes.sql
+### Logic Used: Correlated Subquery using the NOT EXIST Clause to structurally scan the exclude matched page records for high-speed performance.
+
+#### OUTPUT : A Distinct list of unliked pages IDs sorted in Ascending Order.
