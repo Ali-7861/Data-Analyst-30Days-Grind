@@ -1,6 +1,6 @@
 # 01 - SQL - 30 Days Grind
 
-## Day 1 (16 Sept) - Data Filtering & Group Aggregations
+## Day 1  - Data Filtering & Group Aggregations
 **Level:** Easy - LinkedIn Interview Question
 
 ### Problem
@@ -15,12 +15,12 @@ Find candidates who have ALL 3 skills: Python, Tableau, PostgreSQL
 3.  `HAVING COUNT(DISTINCT skill) = 3` - Ensure candidate has all 3 skills
 4.  `ORDER BY ASC` - Sorted output
 
-### Result
+#### OUTPUT
 Successfully filtered candidates who are proficient in all 3 tech stacks.
 
 # 01 - SQL -30 Days GRIND
 
-## Day 2 (17 Sept) - Facebook Pages NO Likes
+## Day 2 - Facebook Pages NO Likes
 
 ### Problem : Find the IDs of all Facebook pages that have generated zero users Likes.
 
