@@ -1,5 +1,5 @@
 # 02- Microsoft Excel - 30 Days Grind 
-## Day (16 Sept ) - Data Sanitization - Phase 1 BASICS
+## Day 01 - Data Sanitization - Phase 1 BASICS
 Dataset: Random messy dataset from Google (Practice purpose)
 
 Steps Done:
