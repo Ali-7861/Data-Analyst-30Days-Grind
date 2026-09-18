@@ -18,7 +18,7 @@ Find candidates who have ALL 3 skills: Python, Tableau, PostgreSQL
 #### OUTPUT
 Successfully filtered candidates who are proficient in all 3 tech stacks.
 
-# 01 - SQL -30 Days GRIND
+
 
 ## Day 2 - Facebook Pages NO Likes
 
