@@ -20,8 +20,7 @@ The raw CSV was dumped in a single column with inconsistent date formats, random
 4.  **Status & Amount:** Fixed status with UPPER and converted amount to number format.
 
 **Files Included:**
-- `Day_02_Before.png` - Raw messy data
-- `Day_02_After.png` - Final clean table
-- `Day_02_Workbook.xlsx` - Excel file with formulas
+- **Sheet 1: 01_Raw_Messy_Data** -Original dump
+- **Sheet 2: 02_Cleaned_Data**  - TRIM, PROPER,DATEVALUE, Text to Columns
 
 **Functions Used:** Text to Columns, TRIM, PROPER, UPPER, DATEVALUE
