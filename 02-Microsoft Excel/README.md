@@ -8,19 +8,4 @@ Steps Done:
 - Removed duplicate entries (L001, L002)
 
 
-## Day 02 - Excel Data Cleaning
 
-**Problem:**
-The raw CSV was dumped in a single column with inconsistent date formats, random vendor name casing, and extra spaces.
-
-**What I Fixed:**
-1.  **Parsing:** Used Text to Columns (Comma) to split 1 column into 5 structured columns.
-2.  **Dates:** Standardized 4 different formats into DD-MM-YYYY using DATEVALUE and Find & Replace.
-3.  **Vendors:** Cleaned names using TRIM and PROPER - e.g., pAnKaJ -> Pankaj.
-4.  **Status & Amount:** Fixed status with UPPER and converted amount to number format.
-
-**Files Included:**
-- **Sheet 1: 01_Raw_Messy_Data** -Original dump
-- **Sheet 2: 02_Cleaned_Data**  - TRIM, PROPER,DATEVALUE, Text to Columns
-
-**Functions Used:** Text to Columns, TRIM, PROPER, UPPER, DATEVALUE
