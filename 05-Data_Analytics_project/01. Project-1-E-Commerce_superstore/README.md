@@ -54,4 +54,21 @@ To ensure 100% data integrity before database ingestion, a comprehensive manual 
 
 ### ⏳ Phase 3: Interactive Visualizations (Power BI) - UPCOMING
 *   *Upcoming status:* Developing a functional business intelligence dashboard tracking MoM growth rates, regional target spreads, and categorical performance matrixes.
-*
+
+
+# Day 3/project -1 /E-Commerce_superstore_sales
+### ✅ Phase 2: SQL Business Analysis (Day 3 - COMPLETED)
+
+#### Day 3 Finding: Which Region is in Loss?
+**Business Question:** Which region of E-Commerce is suffocating Loss?
+
+**Proof Executed:** `02-SQL/01_region_profit_loss_proof.png`
+
+**Final Result:**
+* **West Region:** +14.3% Profit (Healthy) ✅
+* **Central Region:** -3.61% Loss
+* **South Region:** -4.52% Loss
+* **East Region:** -14.84% Loss (Critical) 🔴
+
+> **Business Decision:** the region is eroding company profit by 14.84%. this indicates an immediate audit is required for discount strategy and shipping cost
+![Day 3 Proof - Region Profitability](02-SQL/01_region_profit_loss_proof.png)
